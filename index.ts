@@ -1,6 +1,6 @@
 
 
-export default function uniqueid(w?: any): string {
+export function uniqueid(w?: any): string {
     let text = "";
     const possible = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
     let count = 5
