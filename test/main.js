@@ -1,6 +1,7 @@
 "use strict";
-var index_1 = require('../index');
-var chai = require('chai');
+Object.defineProperty(exports, "__esModule", { value: true });
+var index_1 = require("../index");
+var chai = require("chai");
 var expect = chai.expect;
 describe('works', function () {
     it('is ok', function () {
@@ -8,5 +9,3 @@ describe('works', function () {
         expect(u).to.be.ok;
     });
 });
-
-//# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInRlc3QvbWFpbi50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiO0FBQUEsc0JBQXVCLFVBRXZCLENBQUMsQ0FGZ0M7QUFFakMsSUFBWSxJQUFJLFdBQU0sTUFFdEIsQ0FBQyxDQUYyQjtBQUU1QixJQUFNLE1BQU0sR0FBRyxJQUFJLENBQUMsTUFBTSxDQUFBO0FBRTFCLFFBQVEsQ0FBQyxPQUFPLEVBQUU7SUFFZCxFQUFFLENBQUMsT0FBTyxFQUFFO1FBQ1IsSUFBTSxDQUFDLEdBQUcsZ0JBQVEsRUFBRSxDQUFBO1FBQ3BCLE1BQU0sQ0FBQyxDQUFDLENBQUMsQ0FBQyxFQUFFLENBQUMsRUFBRSxDQUFDLEVBQUUsQ0FBQTtJQUN0QixDQUFDLENBQUMsQ0FBQTtBQUVOLENBQUMsQ0FBQyxDQUFBIiwiZmlsZSI6InRlc3QvbWFpbi5qcyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCB7dW5pcXVlaWR9IGZyb20gJy4uL2luZGV4J1xuXG5pbXBvcnQgKiBhcyBjaGFpIGZyb20gJ2NoYWknXG5cbmNvbnN0IGV4cGVjdCA9IGNoYWkuZXhwZWN0XG5cbmRlc2NyaWJlKCd3b3JrcycsIGZ1bmN0aW9uICgpIHtcblxuICAgIGl0KCdpcyBvaycsIGZ1bmN0aW9uICgpIHtcbiAgICAgICAgY29uc3QgdSA9IHVuaXF1ZWlkKClcbiAgICAgICAgZXhwZWN0KHUpLnRvLmJlLm9rXG4gICAgfSlcblxufSkiXX0=
